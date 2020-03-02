@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SeleniumFrameworkDevelopmentKit",
+    "\\SeleniumFrameworkDevelopmentKit\\Model",
+    "\\SeleniumFrameworkDevelopmentKit\\Model\\WebDriver",
+    "\\SeleniumFrameworkDevelopmentKit\\Model\\WebDriver\\InternetExplorer",
+    "\\SeleniumFrameworkDevelopmentKit\\Model\\WebDriver\\InternetExplorer\\IEConfiguration",
+    "\\SeleniumFrameworkDevelopmentKit\\Model\\WebDriver\\InternetExplorer\\Local"
+  ],
+  "SelectedNode": "\\SeleniumFrameworkDevelopmentKit\\Model\\WebDriver\\InternetExplorer\\Local\\LocalInternetExplorerDriver.cs",
+  "PreviewInSolutionExplorer": false
+}

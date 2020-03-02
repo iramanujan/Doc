@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoTestManager">
+    <enabled-run-configurations>
+      <run-configuration type="tests" name="pytest in test_Objects_Selenium.py" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4630e86c-385d-4a62-b5fe-55e52fe80918" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W0kdGiut8F5G0ZnGNtxS2X4bdK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Learning POCs\Python\PythonSeleniumFrameWork\Scripts\TestItems" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Learning POCs\Python\PythonSeleniumFrameWork" />
+      <recent name="D:\Learning POCs\Python\PythonSeleniumFrameWork\GenericLibraries\Web" />
+      <recent name="D:\Learning POCs\Python\PythonSeleniumFrameWork\GenericLibraries\Mobile" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_pytest2.Testclas">
+    <configuration name="pytest for test_pytest1.test_tables" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PythonSeleniumFrameWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts/TestItems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_pytest1.test_tables&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_pytest2.Testclas" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PythonSeleniumFrameWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts/TestItems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_pytest2.Testclas&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in PythonSeleniumFrameWork" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PythonSeleniumFrameWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_Objects_Selenium2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PythonSeleniumFrameWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts/TestItems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Scripts/TestItems/test_Objects_Selenium2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_pytest1.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PythonSeleniumFrameWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts/TestItems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Scripts/TestItems/test_pytest1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for test_pytest1.test_tables" />
+      <item itemvalue="Python tests.pytest for test_pytest2.Testclas" />
+      <item itemvalue="Python tests.pytest in PythonSeleniumFrameWork" />
+      <item itemvalue="Python tests.pytest in test_Objects_Selenium2.py" />
+      <item itemvalue="Python tests.pytest in test_pytest1.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_pytest2.Testclas" />
+        <item itemvalue="Python tests.pytest in test_pytest1.py" />
+        <item itemvalue="Python tests.pytest in test_Objects_Selenium2.py" />
+        <item itemvalue="Python tests.pytest in PythonSeleniumFrameWork" />
+        <item itemvalue="Python tests.pytest for test_pytest1.test_tables" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4630e86c-385d-4a62-b5fe-55e52fe80918" name="Default Changelist" comment="" />
+      <created>1578293985136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578293985136</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="176" width="1092" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578486515916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" width="1092" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578486515916" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1578486418034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578486418034" />
+    <state width="1899" height="338" key="GridCell.Tab.0.bottom" timestamp="1578543863730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578543863730" />
+    <state width="1899" height="338" key="GridCell.Tab.0.center" timestamp="1578543863730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578543863730" />
+    <state width="1899" height="338" key="GridCell.Tab.0.left" timestamp="1578543863730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578543863730" />
+    <state width="1899" height="338" key="GridCell.Tab.0.right" timestamp="1578543863730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578543863730" />
+    <state width="1899" height="338" key="GridCell.Tab.1.bottom" timestamp="1578543863730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578543863730" />
+    <state width="1899" height="338" key="GridCell.Tab.1.center" timestamp="1578543863730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578543863730" />
+    <state width="1899" height="338" key="GridCell.Tab.1.left" timestamp="1578543863730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578543863730" />
+    <state width="1899" height="338" key="GridCell.Tab.1.right" timestamp="1578543863730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578543863730" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1578550606393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578550606393" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1578544532871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578544532871" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1578460050861">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578460050861" />
+  </component>
+</project>
